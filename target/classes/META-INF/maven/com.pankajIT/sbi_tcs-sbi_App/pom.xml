@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.pankajIT</groupId>
+	<artifactId>sbi_tcs-sbi_App</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<dependencies>
+		<dependency>
+			<groupId>in.cooL_IT</groupId>
+			<artifactId>101-Maven_App</artifactId>
+			<version>RELEASE-2.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>in.coolIT</groupId>
+			<artifactId>100-Maven_App</artifactId>
+			<version>RELEASE-2.0</version>
+		</dependency>
+	</dependencies>
+
+</project>
